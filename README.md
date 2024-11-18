@@ -3,3 +3,5 @@ Unity kullanarak geliştirdiğim tıklamalı oyun, oyuncuların zaman karşısı
 
 
 Teknolojiler: Unity, C#, GitHub.
+
+CursorGame Dosyası üzerinden linki kopyalayarak GoogleDrive dan indirebilirsiniz.
