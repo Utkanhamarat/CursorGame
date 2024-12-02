@@ -5,3 +5,13 @@ Unity kullanarak geliştirdiğim tıklamalı oyun, oyuncuların zaman karşısı
 Teknolojiler: Unity, C#, GitHub.
 
 CursorGame Dosyası üzerinden linki kopyalayarak GoogleDrive dan indirebilirsiniz.
+
+
+-ENGLISH-
+
+
+The clicker game I developed using Unity tests players' clicking skills against time. During the project, I gained experience with Unity Engine, C# scripting, game mechanics development, and basic UI design. The project includes a leaderboard system to track player scores and manage the game cycle."
+
+Technologies: Unity, C#, GitHub.
+
+You can download it from GoogleDrive by copying the link from the CursorGame File.
